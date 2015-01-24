@@ -1,6 +1,6 @@
 
 
-def calcuate():
+def calculate():
 	""" Calcuating no of substrings of  given weight
 	weight of a - 1
 	     .
@@ -60,5 +60,5 @@ def calcuate():
 		print count	
 		t_case = t_case-1
 
-if __name__="__main__":
+if __name__=="__main__":
 	calculate()
